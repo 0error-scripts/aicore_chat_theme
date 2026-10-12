@@ -5,7 +5,7 @@ name 'aicore_chat_theme'
 description 'mantine-styled theme for the chat resource.'
 version '1.0.0'
 author 'Aicore'
-repository 'https://github.com/0error-scripts/aicore_chat_theme'
+repository 'https://github.com/aicore-fivem/aicore_chat_theme'
 
 -- we need chat to be able to access this resource's callbacks
 nui_callback_strict_mode 'false'
